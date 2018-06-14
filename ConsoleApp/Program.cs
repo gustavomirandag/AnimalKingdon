@@ -31,10 +31,6 @@ namespace ConsoleApp
                 petShop[i].MakeNoise();
             }
             //=====================================
-            Animal animalDesconhecido = new Animal();
-
-
-
 
             Animal pet = new Dog();
             Dog toto = new Dog();
